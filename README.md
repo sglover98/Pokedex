@@ -1,3 +1,14 @@
+# Simple Pokedex
+
+Simple Pokedex that uses the pokemon API to generate a list.
+
+
+
+<img width="1051" alt="Screen Shot 2022-03-26 at 11 06 47 PM" src="https://user-images.githubusercontent.com/88252222/160264986-20f6dad4-c84c-4873-a743-24e546e01441.png">
+
+<img width="460" alt="Screen Shot 2022-03-26 at 11 06 55 PM" src="https://user-images.githubusercontent.com/88252222/160264990-135e9141-6140-4155-8070-1b907d7dff9b.png">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
