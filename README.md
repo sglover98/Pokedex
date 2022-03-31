@@ -1,6 +1,5 @@
 # Simple Pokedex
-https://pokedex-bz31bxbln-sglover98.vercel.app/
-
+https://pokedex-five-ecru.vercel.app/
 Simple Pokedex that uses the pokemon API to generate a list.
 
 
